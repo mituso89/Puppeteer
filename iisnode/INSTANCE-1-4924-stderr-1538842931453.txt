@@ -1,0 +1,25 @@
+(node:4924) UnhandledPromiseRejectionWarning: Error: Evaluation failed: TypeError: Cannot read property 'src' of undefined
+    at __puppeteer_evaluation_script__:25:161
+    at ExecutionContext.evaluateHandle (C:\Program Files\iisnode\www\express\node_modules\puppeteer\lib\ExecutionContext.js:97:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:4924) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:4924) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:4924) UnhandledPromiseRejectionWarning: Error: Evaluation failed: TypeError: Cannot read property 'src' of undefined
+    at __puppeteer_evaluation_script__:25:161
+    at ExecutionContext.evaluateHandle (C:\Program Files\iisnode\www\express\node_modules\puppeteer\lib\ExecutionContext.js:97:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:4924) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:4924) UnhandledPromiseRejectionWarning: Error: Evaluation failed: TypeError: Cannot read property 'src' of undefined
+    at __puppeteer_evaluation_script__:25:161
+    at ExecutionContext.evaluateHandle (C:\Program Files\iisnode\www\express\node_modules\puppeteer\lib\ExecutionContext.js:97:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:4924) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:4924) UnhandledPromiseRejectionWarning: Error: Evaluation failed: TypeError: Cannot read property 'src' of undefined
+    at __puppeteer_evaluation_script__:25:161
+    at ExecutionContext.evaluateHandle (C:\Program Files\iisnode\www\express\node_modules\puppeteer\lib\ExecutionContext.js:97:13)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:4924) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
