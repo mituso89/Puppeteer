@@ -35,6 +35,7 @@ const skippedResources = [
   'zedo',
   'clicksor',
   'tiqcdn',
+  'dien'
 ];
 
 
